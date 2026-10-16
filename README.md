@@ -1,162 +1,138 @@
-# 🎰 1Stake Online Casino Platform
+<div align="center">
 
-1Stake is **affordable online casino software** and a **turnkey casino solution** for operators launching and managing their own iGaming brands. Its modular, self-hosted architecture brings together casino games, fiat and crypto payment integrations, player management and marketing tools.
+<h1> 🎰 Goldsvet Casino Open Source Engine </h1>    
 
-For operators looking for a **casino script**, 1Stake provides an integrated foundation designed to reduce custom development and integration costs.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=00FFB2&center=true&vCenter=true&width=900&lines=100%25+Local+Open-Source+Casino+Engine+%E2%80%A2+Laravel+Powered;Hybrid+API+Ready+%E2%80%A2+Zero+Encryption+%E2%80%A2+No+Backdoors;Built-in+Sportsbook+%26+Instant+Games+%E2%80%A2+Full+Financial+Autonomy;High-Load+VPS%2FVDS+%E2%82%82+Cluster+Ready+%E2%80%A2+No+Hidden+Fees" alt="Goldsvet Casino Engine" />
+</p>
 
-> [LIVE DEMO](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
-> • [OFFICIAL WEBSITE](https://1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
-> • [CONTACT US](https://1stake.app/contact-us?utm_source=github&utm_medium=referral&utm_campaign=readme)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge&logo=rocket)]()
+[![Architecture](https://img.shields.io/badge/Architecture-Laravel%20%2F%20High--Load-blue?style=for-the-badge&logo=laravel)]()
+[![Source Code](https://img.shields.io/badge/Source-100%25%20Open%20Source-purple?style=for-the-badge&logo=github)]()
+[![License](https://img.shields.io/badge/License-Commercial%20Enterprise-orange?style=for-the-badge)]()
 
-[![1Stake Online Casino Platform](https://raw.githubusercontent.com/1stake/assets/refs/heads/main/1stake-igaming-casino-platform-browser.webp)](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
+**Next-generation enterprise iGaming software:** Choose your path. A fully localized, dependency-free Laravel engine **OR** a hybrid open-source core with seamless external API integration. Maximum uptime, clean code, and absolute financial autonomy.
 
----
+</div>
 
-## 🚀 Launch Your Online Casino with a Turnkey Solution
 
-The **1Stake iGaming platform** combines in-house casino games, third-party game provider integrations, payment gateways and a unified back office. Deploy the platform on your own infrastructure and configure the game catalogue, currencies, languages and branding for your audience.
 
-Built-in affiliate programmes, bonus rules and analytics support player acquisition and retention. Our team can help you assess platform requirements, integrations and commercial terms for your launch.
+## 🚀 Choose Your Deployment Path
 
----
+This repository offers **two distinct, production-ready configurations** tailored to your business model. Both share the same robust, audited, and unencrypted core architecture.
 
-## ✨ Casino Platform Features
+<div align="center">
 
-### Game Engine and Player Experience
+| 🔹 **Option 1: 100% Local Open-Source Engine** | 🔸 **Option 2: Hybrid Engine (Local + API Providers)** |
+| :--- | :--- |
+| **Zero external dependencies.** No monthly API fees, no third-party revenue splits. | **Open-source core + External API integration.** Combine local games with premium provider slots. |
+| **Built-in Games:** Slots (1100+), Crash, Slides, Mines, Local Sportsbook. | **Built-in Games:** Crash, Slides, Mines, Local Sportsbook **+** 2500+ API Slots/Live Casino. |
+| **Payments:** Stripe, PIX, Coinbase Commerce, NowPayments, PaymentWall, PIN Codes. | **Payments:** Same local gateways **+** advanced aggregator wallet routing. |
+| **Best for:** Private casinos, multi-brand networks, B2B API providers, budget-conscious startups. | **Best for:** Established operators seeking premium content alongside zero-fee local games. |
+| [**🔗 View Option 1 Details & Purchase**](https://mintscripts.net/market/73-mint-scripts-engine-kripto-kazino-laravel-open-source.html) | [**🔗 View Option 2 Details & Purchase**](https://mintscripts.net/market/61-kupit-skript-kazino-pod-kljuch-goldsvet-crypto-casino-s-api-pragmatic-play-i-hacksaw.html) |
 
-- 2 responsive UI templates with customisable colour palettes
-- 22 pre-installed languages plus unlimited custom locales
-- Multi-currency balances (fiat, crypto, virtual sweepstakes coins)
-- Real-time gameplay feed and multi-room chat
-- Player presence indicators and tipping
-- Social and Web3 authentication (Facebook, Google, X, LinkedIn, Yahoo, GitHub, Coinbase, EVM/Solana/Tron wallets)
-- Custom sign-up fields
-- Proprietary **provably fair technology** for in-house games
-- Adjustable game parameters
-- Support for custom card decks and visual assets
+</div>
 
-### Growth and Marketing
 
-- Multi-tier affiliate programme (up to 3 levels)
-- Anti-fraud referral validation (IP checks)
-- Post Affiliate Pro integration
-- Granular bonus rules (signup, email verification, KYC, deposit, faucet, cashback)
-- Configurable bot accounts for simulated activity
-- SEO-friendly routing and content-managed static pages
-- Google Tag Manager (GTM) integration for advanced funnel tracking
 
-### Sweepstakes Casino Support
+## 🖥️ Visual Overview (Option 1: Local Engine)
 
-- Supports **Gold Coins** (non-withdrawable entertainment currency)
-- Supports **Sweeps Coins** (earned via bonuses or promotions)
-- Configurable earning triggers (signup, KYC, email verification)
+Experience the sleek, responsive, and highly intuitive interface designed for both players and administrators. 
 
-### Compliance and Security
+<div align="center">
+  <p><strong>🎮 Player Frontend Experience</strong></p>
+  <img src="https://raw.githubusercontent.com/Code-Core-Next-Gen-Gaming-AI-Systems/goldsvet-casino-open-source-engine/refs/heads/main/Screenshot_297.jpg" alt="Goldsvet Local Casino Frontend" width="90%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,255,178,0.15); border: 1px solid rgba(0,255,178,0.2);" />
+  
+  <br><br>
+  
+  <p><strong>⚙️ Extended Admin Control Panel</strong></p>
+  <img src="https://raw.githubusercontent.com/Code-Core-Next-Gen-Gaming-AI-Systems/goldsvet-casino-open-source-engine/refs/heads/main/Screenshot_300.jpg" alt="Goldsvet Local Casino Admin Panel" width="90%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,255,178,0.15); border: 1px solid rgba(0,255,178,0.2);" />
+</div>
 
-- Google reCAPTCHA anti-spam protection
-- Two-factor authentication (2FA)
-- KYC (manual review + email notifications)
-- Optional third-party identity verification integration (EVS Blue Assure)
-- CSRF / XSS / SQL injection protection
-- Login throttling & API rate limiting
-- Race condition & spam-registration mitigation
-- Device fingerprinting for fraud detection
 
-### Casino Back Office and Operations
 
-- Unified analytics dashboard (KPIs, charts, player & wagering stats)
-- Player account management (PAM)
-- Game-history logs with granular bet resolution details
-- Customisable menu, homepage, footer and static content
-- Asset theming: logos, favicon, fonts, game thumbnails
-- Automated platform upgrades
-- Role-based access control (RBAC) with per-admin module permissions
+## 🏗️ Architecture & Data Flow
 
-### Technology Stack
+The engine is designed for flexibility. Below is the data flow illustrating how the system handles both **100% Local** operations and **Hybrid API** requests seamlessly.
 
-- Laravel framework + Vue 3 SPA
-- Progressive Web Application (PWA)
-- Code splitting, lazy loading & progressive image loading
-- Real-time broadcasting channels
-- Scalable architecture
+```mermaid
+graph TD
+    A[Player Deposit / Crypto TX] --> B(Local Gateway / Aggregator Router)
+    B --> C{Balance Router & Ledger}
+    C -->|100% Local Path| D[Native Instant Games: Crash, Slides, Mines]
+    C -->|100% Local Path| E[Local Sportsbook & Live Betting Module]
+    C -->|Hybrid API Path| F[External Provider Aggregator API]
+    D --> G[Risk Management & RTP Control Engine]
+    E --> G
+    F --> G
+    G --> H[Extended Admin Panel & Real-time Analytics]
+    H --> I[(Local Secure Database)]
+```
 
----
 
-## 🎲 In-House Casino Games
+## 💎 Core Features (Included in Both Options)
 
-The following **online casino games** are developed in-house and integrated into the 1Stake iGaming platform:
+* **🎰 Native Instant Games:** Autonomous, server-side games (Crash, Slides, Mines) running directly on your infrastructure with **zero monthly third-party traffic fees**.
+* **⚽ Standalone Local Sportsbook:** A fully decoupled, local sports betting line (football, basketball, tennis, esports) with customizable odds and margins. No external API fees.
+* **💳 Versatile Payment Gateways:** Out-of-the-box support for **Stripe** (cards), **PIX** (instant Brazil), **Coinbase Commerce** & **NowPayments** (crypto), **PaymentWall** (global), and **PIN Code** activation systems. Deploy your own private crypto gateway with ease.
+* **🎯 Advanced Retention System:** Multi-tier loyalty programs, player ranks, weekly cashback (up to 15%), dynamic tournaments, free spins shop, and customizable promotional banners.
+* **⚙️ Granular RTP Control:** Fine-tune the return-to-player percentage (GDR adjustment at 8%+ level) globally or per-module directly from the admin panel for stable business profitability.
+* **🌍 Multi-Currency & Localization:** Multi-currency balances, default currency selection, and min/max limits configurable per payment gateway.
 
-- American Roulette
-- Baccarat
-- Blackjack
-- Caribbean Poker
-- Casino Hold’em
-- Crash
-- Dice
-- Dice 3D
-- European Roulette
-- Heads or Tails
-- Horse Racing
-- Keno
-- Multiplayer Blackjack
-- Multiplayer Roulette
-- Video Poker
-- Lucky Wheel
-- Slots
-- Slots 3D
-- Plinko
-- Sic Bo
 
-> Explore the games in the [1Stake online casino software demo](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme).
 
----
+## 🔌 Seamless Aggregator Compatibility (Option 2)
 
-## 🪙 Cryptocurrency Price Prediction Game
+For operators requiring premium third-party content, our engine features pre-configured, modular API connectors. 
 
-The platform includes a **crypto price prediction game** where players predict future cryptocurrency price movements. Operators can configure the rules and parameters for this game format.
+> *Disclaimer: The engine provides the technical integration framework. External game content requires valid commercial agreements with respective providers or aggregators.*
 
-> Explore the [crypto price prediction demo](https://demo.1stake.app/markets/crypto-prediction?utm_source=github&utm_medium=referral&utm_campaign=readme).
+The architecture is agnostic and easily integrates with leading global studios and aggregator APIs, including but not limited to:  
+`PG Soft` • `Play'n GO` • `EGT` • `iSoftBet` • `Pragmatic Play` • `NetEnt` • `Novomatic` • `Wazdan` • `CQ9` • `BetSoft` • `Amatic` • `Greentube` • `Igrosoft` • `Skywind` • `Keno/Card/Roulette Networks` • `Jackpots & Arcade Modules`.
 
----
 
-## 🎫 Raffles and Lotteries
 
-The online casino platform supports ticket-based raffles and lotteries. Operators can configure ticket prices, the total ticket count, the house fee and time-based or ticket-based end conditions.
+## 📊 Competitive Matrix
 
-> View the [raffle demo](https://demo.1stake.app/raffles?utm_source=github&utm_medium=referral&utm_campaign=readme) on the [1Stake iGaming platform demo](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme).
+| Comparison Criteria | 🚀 Mint Scripts Engine (This Repo) | ❌ Standard Public Builds |
+| :--- | :--- | :--- |
+| **Source Code** | **100% Open Source (Laravel)**, unencrypted, fully auditable | Encoded via IonCube, hidden security risks, obfuscated logic |
+| **Game Autonomy** | **Built-in Instant Games + Local Sportsbook** (0% fees) | None (every game requires paid API feeds and revenue splits) |
+| **Payment Flexibility** | **Local Gateways + PIN + Crypto** (0% intermediary fees) | Paid aggregators only (5% to 12% turnover cut) |
+| **Security** | Complete code audit, zero backdoors, local data sovereignty | High risk of hacks, database leaks, and hidden admin accounts |
+| **Marketing Tools** | Free spins shop, wheel of fortune, ranks, tournaments, VIP pages | Basic profile and standard slot catalog only |
 
----
 
-## 🎮 Casino Game Provider Integrations
 
-Access **90+ game providers and 13,000+ casino games** through a unified integration. The provider catalogue covers slots, live casino, table games, instant games, crash games and virtual sports.
+## ❓ Frequently Asked Questions (FAQ)
 
-> View the [supported casino game providers](https://1stake.app/products/casino-platform/game-providers?utm_source=github&utm_medium=referral&utm_campaign=readme).
+**1. What is the difference between Option 1 and Option 2?**  
+*Option 1* is a 100% self-contained, local Laravel engine with built-in games and sportsbook. It has zero external dependencies, making it perfect for maximum profit retention and privacy. *Option 2* includes the same powerful local core but adds pre-configured API connectors for integrating external premium slot providers and live casinos.
 
-Already operate your own casino platform? See the [1Stake Casino Game Aggregator API overview on GitHub](https://github.com/1stake/casino-game-aggregator-api) for game launch, seamless wallet integration, catalogue synchronisation and round reporting.
+**2. How are financial security and settlements handled?**  
+All settlements occur directly through your configured gateways. For crypto, funds are credited instantly to your designated wallets without intermediaries. The system supports both manual payout audits and fully automated withdrawal modes.
 
----
+**3. Can I customize the RTP and financial parameters?**  
+Yes. The extended admin panel provides granular control over RTP (Return to Player), wagering requirements, bonus limits, and gateway min/max thresholds. You have absolute control over the mathematical model of your platform.
 
-## 💳 Casino Payment Integrations and Currencies
+**4. Is the code truly open source?**  
+Yes. Unlike public "nulled" builds, this is a professionally modernized, clean-code Laravel architecture. There is no IonCube encoding, no hidden backdoors, and no external phone-home scripts. You own your infrastructure.
 
-The platform integrates with payment gateways for **fiat and cryptocurrency deposits and withdrawals**. Multi-currency balances support fiat, crypto and virtual sweepstakes currencies.
 
-> View the [supported deposit and withdrawal methods](https://1stake.app/products/casino-platform/payments?utm_source=github&utm_medium=referral&utm_campaign=readme).
 
----
+<div align="center">
 
-## ✅ Why Choose the 1Stake Turnkey Casino Solution?
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer animation">
+</p>
 
-- Cost-effective launch with integrated games, payments and back-office tools
-- Modular and extensible architecture
-- Player verification and security controls
-- Multiple languages, currencies and branding options
-- Provably fair technology for in-house games
-- Affiliate programmes, bonuses and operational analytics
-- Support for crypto, fiat and sweepstakes currencies
+<p><strong>Ready to launch your enterprise iGaming platform?</strong></p>
 
-> Explore the [1Stake turnkey casino solution](https://1stake.app/solutions/turnkey-casino?utm_source=github&utm_medium=referral&utm_campaign=readme) or [contact our team](https://1stake.app/contact-us?utm_source=github&utm_medium=referral&utm_campaign=readme) to discuss platform requirements, pricing and launch support.
+[**🔗 Get Option 1: 100% Local Open-Source Engine**](https://mintscripts.net/market/73-mint-scripts-engine-kripto-kazino-laravel-open-source.html)  
+[**🔗 Get Option 2: Hybrid Engine with API Providers**](https://mintscripts.net/market/61-kupit-skript-kazino-pod-kljuch-goldsvet-crypto-casino-s-api-pragmatic-play-i-hacksaw.html)
 
----
+<br>
+<em>This material is the intellectual property of Code Core & Mint Scripts Technology Lab.</em><br>
+<em>© 2026 Mint Scripts — Web3 & iGaming Architectural Engineering.</em>
 
-Developed and supported by the [1Stake Casino Software Development Team](https://1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme).
+</div>
